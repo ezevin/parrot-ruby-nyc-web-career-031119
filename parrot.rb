@@ -3,4 +3,6 @@
 
 def parrot
   phrase  = "Squawk!"
+  put "Squawk!"
 end
+
